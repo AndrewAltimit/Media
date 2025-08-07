@@ -20,7 +20,7 @@ reaction_images:
       - "Celebrating something pleasant"
       - "Music-related contexts (due to headphones)"
     tags: ["happy", "cheerful", "excited", "positive", "music"]
-    character_appearance: "Light-haired cat boy with pink headphones, smiling"
+    character_appearance: "Felix Argyle, a light-haired catboy with pink headphones, smiling"
 
   - id: "konata_typing"
     source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/konata_typing.webp"
@@ -446,3 +446,173 @@ reaction_images:
       - "Expressing surprise or disbelief"
     tags: ["shocked", "surprised", "alarmed", "yelling", "noire", "neptunia"]
     character_appearance: "Noire, a female anime character with long black hair and red eyes, with her mouth open in shock."
+
+  - id: "neptune_excited"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/neptune_excited.png"
+    description: "An extremely excited and happy Neptune from Hyperdimension Neptunia."
+    usage_scenarios:
+      - "Expressing great excitement or joy"
+      - "Reacting to fantastic news"
+      - "When you're full of energy and happiness"
+    tags: ["excited", "happy", "joyful", "energetic", "neptune", "neptunia"]
+    character_appearance: "Neptune, a female anime character with light purple hair and a D-pad hair clip, blushing with a wide, open-mouthed, excited smile."
+
+  - id: "miku_smug_fangs"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/miku_smug_fangs.png"
+    description: "A smug and slightly mischievous Miku from Vocaloid with fangs."
+    usage_scenarios:
+      - "When feeling cheeky or playfully aggressive"
+      - "Reacting with a confident, toothy grin"
+      - "For a smug, slightly edgy reaction"
+    tags: ["smug", "confident", "mischievous", "fangs", "miku", "vocaloid"]
+    character_appearance: "Miku, a female anime character with black hair and a playful expression, blushing with a wide, smug grin that shows fangs."
+
+  - id: "neptune_thinking"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/neptune_thinking.png"
+    description: "A thoughtful or slightly pensive Neptune from Hyperdimension Neptunia."
+    usage_scenarios:
+      - "When contemplating a difficult decision"
+      - "Reacting with a moment of serious thought"
+      - "Expressing a pensive or concerned mood"
+    tags: ["thinking", "pensive", "thoughtful", "concerned", "neptune", "neptunia"]
+    character_appearance: "Neptune, a female anime character with purple hair and D-pad hair clips, with her finger on her lip in a thoughtful pose."
+
+  - id: "if_concerned"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/if_concerned.png"
+    description: "A concerned, troubled, or slightly sad expression from IF from Hyperdimension Neptunia."
+    usage_scenarios:
+      - "Expressing concern or worry"
+      - "Reacting to bad or troubling news"
+      - "When you're feeling uncertain or anxious"
+    tags: ["concerned", "worried", "troubled", "anxious", "if", "neptunia"]
+    character_appearance: "IF, a female anime character with long brown hair and a green ribbon, looking down with a concerned and worried expression."
+
+  - id: "ram_shrug"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/ram_shrug.png"
+    description: "Ram from Re:Zero shrugging with a smug and indifferent expression."
+    usage_scenarios:
+      - "Expressing 'I don't know and I don't care'"
+      - "When you're feeling smugly indifferent to a situation"
+      - "A dismissive or carefree reaction"
+    tags: ["shrug", "indifferent", "smug", "whatever", "ram", "re:zero"]
+    character_appearance: "Ram, a female anime character with pink hair and a maid outfit, shrugging with her arms out and a smug look."
+
+  - id: "rem_glasses"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/rem_glasses.png"
+    description: "Rem from Re:Zero wearing glasses and pushing her glasses up."
+    usage_scenarios:
+      - "A cute and friendly greeting"
+      - "When feeling smart and cheerful"
+      - "A positive and slightly nerdy reaction"
+    tags: ["cute", "glasses", "cheerful", "rem", "re:zero"]
+    character_appearance: "Rem, a female anime character with blue hair and a maid outfit, smiling while wearing glasses and pushing her glasses up."
+
+  - id: "sistine_smug_tea"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/sistine_smug_tea.png"
+    description: "Sistine Fibel from Akashic Records sipping tea with a smug expression."
+    usage_scenarios:
+      - "When observing drama unfold with a sense of superiority"
+      - "Reacting with calm, smug satisfaction"
+      - "Enjoying a moment of knowing something others don't"
+    tags: ["smug", "tea", "satisfied", "knowing", "sistine_fibel", "akashic_records"]
+    character_appearance: "Sistine Fibel, a female anime character with long white hair and green eyes, blushing slightly while sipping from a teacup with a smug look."
+
+  - id: "hifumi_shocked"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/hifumi_shocked.png"
+    description: "A shocked or startled Hifumi Takimoto from New Game! with exclamation marks."
+    usage_scenarios:
+      - "Reacting to something sudden or shocking"
+      - "Expressing surprise or alarm"
+      - "When startled by unexpected information"
+    tags: ["shocked", "startled", "surprised", "alarmed", "hifumi", "new_game"]
+    character_appearance: "Hifumi Takimoto, a female anime character with long dark purple hair and a red bow, with a wide-eyed, shocked expression highlighted by glowing exclamation marks."
+
+  - id: "excited_gasp"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/excited_gasp.png"
+    description: "An anime girl with an excited, delighted gasp, hands cupping her face."
+    usage_scenarios:
+      - "Reacting with delight and excitement"
+      - "When seeing something incredibly cute or wonderful"
+      - "An expression of pure, happy surprise"
+    tags: ["excited", "gasp", "delighted", "happy", "cute"]
+    character_appearance: "An anime girl with silver-grey hair and light-colored eyes, blushing with an overjoyed expression and hands on her cheeks."
+
+  - id: "nervous_sweat"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/nervous_sweat.png"
+    description: "An anime girl sweating and looking nervous or stressed."
+    usage_scenarios:
+      - "When feeling nervous or under pressure"
+      - "Reacting to a stressful or awkward situation"
+      - "Expressing relief after a difficult task ('phew')"
+    tags: ["nervous", "sweating", "stressed", "anxious", "phew"]
+    character_appearance: "An anime girl with short dark blue hair, blushing and wiping sweat from her brow with a towel, looking anxious."
+
+  - id: "ram_judgemental"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/ram_judgemental.png"
+    description: "Ram from Re:Zero looking down with a serious or judgmental expression."
+    usage_scenarios:
+      - "Expressing disappointment or disapproval"
+      - "Looking down on someone's actions or words"
+      - "A serious, somber, or unimpressed reaction"
+    tags: ["judgemental", "disappointed", "serious", "unimpressed", "ram", "re:zero"]
+    character_appearance: "Ram, a female anime character with pink hair and a maid outfit, shown from a low angle looking down with a shadowed, serious expression."
+
+  - id: "yuri_smug"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/yuri_smug.png"
+    description: "Yuri from Doki Doki Literature Club! with a smug, slightly unsettling expression."
+    usage_scenarios:
+      - "When feeling mysteriously confident or smug"
+      - "Reacting with a hint of playful insanity"
+      - "For a slightly obsessive or intense, yet self-satisfied moment"
+    tags: ["smug", "confident", "intense", "unsettling", "yuri", "doki_doki_literature_club"]
+    character_appearance: "Yuri, a female anime character with long purple hair in a school uniform, covering her mouth with her hand while smiling smugly."
+
+  - id: "ika_musume_drinking"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/ika_musume_drinking.png"
+    description: "Ika Musume (Squid Girl) drinking from a cup with a relaxed expression."
+    usage_scenarios:
+      - "Casually sipping a drink"
+      - "Taking a break or relaxing"
+      - "A calm and casual reaction"
+    tags: ["drinking", "sipping", "relaxed", "casual", "ika_musume", "squid_girl"]
+    character_appearance: "Ika Musume, a female anime character with long blue tentacle-like hair and a white cap, drinking from a cup with closed eyes."
+
+  - id: "giggling_bunny_clip"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/giggling_bunny_clip.png"
+    description: "An anime girl giggling shyly behind her hand, with a bunny clip in her hair."
+    usage_scenarios:
+      - "When you find something cute and funny"
+      - "A shy or playful giggle"
+      - "Reacting with bashful amusement"
+    tags: ["giggling", "shy", "amused", "cute", "bunny"]
+    character_appearance: "An anime girl with long brown hair and a white bunny hair clip, blushing and covering her mouth while giggling."
+
+  - id: "menhera_chan_wave"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/menhera_chan_wave.png"
+    description: "Menhera-chan waving with a relaxed, smug smile."
+    usage_scenarios:
+      - "A casual, confident greeting or farewell"
+      - "When you're feeling chill and slightly smug"
+      - "A friendly but self-assured wave"
+    tags: ["waving", "smug", "relaxed", "casual", "menhera-chan"]
+    character_appearance: "Menhera-chan, a female anime character with medium-length brown hair, wearing a dark hoodie and waving with a smug smile."
+
+  - id: "smug_fangs_pink_hair"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/smug_fangs_pink_hair.png"
+    description: "A smug anime girl with pink hair, yellow eyes, and fangs."
+    usage_scenarios:
+      - "Expressing wild excitement or glee"
+      - "A happy and slightly feral reaction"
+      - "When you're thrilled about something"
+    tags: ["smug", "happy", "glee", "fangs", "pink_hair"]
+    character_appearance: "An anime girl with long pink hair, prominent fangs, and yellow eyes, with a wide, excited grin."
+
+  - id: "nico_yazawa_sipping_drink"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/nico_yazawa_sipping_drink.png"
+    description: "Nico Yazawa from Love Live! sipping a drink with a bored or annoyed expression."
+    usage_scenarios:
+      - "When you're unimpressed or bored"
+      - "Reacting to something with annoyance"
+      - "Expressing a 'not this again' feeling"
+    tags: ["bored", "annoyed", "unimpressed", "sipping", "nico_yazawa", "love_live"]
+    character_appearance: "Nico Yazawa, a female anime character with black hair in pigtails with red ribbons, looking bored while sipping from a fast-food cup."
