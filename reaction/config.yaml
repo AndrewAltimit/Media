@@ -82,7 +82,6 @@ reaction_images:
     tags: ["realization", "head-bonk", "of-course", "duh", "acknowledgment", "insight"]
     character_appearance: "Girl bonking herself on the head in realization"
 
-
   - id: "tohru_smug"
     source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/tohru_smug.png"
     description: "A smug, knowing, or slightly mischievous expression from Tohru."
@@ -247,3 +246,203 @@ reaction_images:
       - "When a clever plan (or what you think is a clever plan) comes together"
     tags: ["smug", "triumphant", "superior", "proud", "satania", "gabriel_dropout"]
     character_appearance: "Satania, a female anime character with red hair, red eyes, and small bat-like wings on her head, with a smug grin."
+
+  - id: "noire_not_amused"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/noire_not_amused.png"
+    description: "An unimpressed or slightly annoyed expression from Noire of Hyperdimension Neptunia."
+    usage_scenarios:
+      - "When you are not impressed by something"
+      - "Reacting to an obvious or silly statement"
+      - "Showing mild annoyance or skepticism"
+    tags: ["unimpressed", "skeptical", "annoyed", "Noire", "neptunia"]
+    character_appearance: "Noire, a female anime character with long black hair and red eyes, giving a sidelong, unimpressed glance."
+
+  - id: "kanna_facepalm"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/kanna_facepalm.png"
+    description: "Kanna Kamui from Miss Kobayashi's Dragon Maid facepalming in disappointment."
+    usage_scenarios:
+      - "Expressing disappointment or frustration"
+      - "Reacting to a fail or a bad joke"
+      - "When words are not enough to show your exasperation"
+    tags: ["facepalm", "disappointed", "frustrated", "kanna", "dragon_maid"]
+    character_appearance: "Kanna Kamui, a small girl with lavender hair and horns, covering her face with her hand."
+
+  - id: "kuroneko_smug"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/kuroneko_smug.png"
+    description: "A smug and knowing look from Kuroneko from Ore no Imouto ga Konna ni Kawaii Wake ga Nai."
+    usage_scenarios:
+      - "When you're feeling confident and a little bit smug"
+      - "Teasing someone in a playful manner"
+      - "When you know a secret"
+    tags: ["smug", "knowing", "confident", "kuroneko", "ore_no_imouto"]
+    character_appearance: "Kuroneko, a female anime character with long black hair and cat ears, smiling smugly with a hand on her chin."
+
+  - id: "miku_confused"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/miku_confused.png"
+    description: "A chibi Hatsune Miku looking confused with a large question mark."
+    usage_scenarios:
+      - "When you are confused or don't understand something"
+      - "Questioning a strange statement or situation"
+      - "Expressing puzzlement"
+    tags: ["confused", "questioning", "puzzled", "miku", "vocaloid"]
+    character_appearance: "A chibi version of Hatsune Miku with teal pigtails, looking up with a confused expression and a pixelated question mark."
+
+  - id: "miku_laughing"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/miku_laughing.png"
+    description: "Hatsune Miku laughing joyfully."
+    usage_scenarios:
+      - "Expressing extreme happiness or excitement"
+      - "Reacting with overwhelming joy"
+      - "When you find something hilarious"
+    tags: ["excited", "happy", "joyful", "laughing", "miku", "vocaloid"]
+    character_appearance: "A chibi version of Hatsune Miku with teal pigtails, laughing with immense joy."
+
+  - id: "miku_annoyed"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/miku_annoyed.png"
+    description: "An annoyed or frustrated Hatsune Miku."
+    usage_scenarios:
+      - "When feeling bored or zoned out"
+      - "Reacting to something irritating or frustrating"
+      - "Expressing a lack of interest"
+    tags: ["annoyed", "frustrated", "disinterested", "miku", "vocaloid"]
+    character_appearance: "Hatsune Miku with teal pigtails, looking on with an annoyed expression."
+
+  - id: "miku_shrug"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/miku_shrug.png"
+    description: "A chibi Hatsune Miku shrugging, expressing indifference or uncertainty."
+    usage_scenarios:
+      - "When you don't know the answer"
+      - "Expressing indifference, like 'I don't care'"
+      - "When you're unsure about something"
+    tags: ["shrug", "dunno", "indifferent", "uncertain", "miku", "vocaloid"]
+    character_appearance: "A chibi version of Hatsune Miku with teal pigtails, shrugging with a key floating nearby."
+
+  - id: "mio_crying"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/mio_crying.png"
+    description: "Mio Akiyama from K-On! crying intensely."
+    usage_scenarios:
+      - "Expressing extreme sadness or being overwhelmed"
+      - "Reacting to something very sad"
+      - "When you are emotionally distraught"
+    tags: ["crying", "sad", "upset", "tears", "mio", "k-on"]
+    character_appearance: "Mio Akiyama, a female anime character with long black hair, crying with tears streaming down her face."
+
+  - id: "nagatoro_smug_relaxed"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/nagatoro_smug_relaxed.png"
+    description: "Nagatoro looking smug and relaxed with her hands behind her head whistling."
+    usage_scenarios:
+      - "When you are feeling relaxed and confident"
+      - "In a teasing or playful mood"
+      - "When you're about to mess with someone"
+    tags: ["smug", "relaxed", "confident", "teasing", "nagatoro", "whistling"]
+    character_appearance: "Nagatoro, a dark-skinned female anime character with long dark hair, leaning back with her hands behind her head and a smug expression while whistling."
+
+  - id: "nagatoro_smug_scoff"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/nagatoro_smug_scoff.png"
+    description: "Nagatoro looking smug and scoffing."
+    usage_scenarios:
+      - "When you find something amusingly pathetic"
+      - "Reacting to someone's failure with a smirk"
+      - "When you're trying to contain your anxiety"
+    tags: ["smug", "scoffing", "teasing", "nagatoro"]
+    character_appearance: "Nagatoro, a dark-skinned female anime character with long dark hair, looking smug and scoffing."
+
+  - id: "nagatoro_shocked"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/nagatoro_shocked.png"
+    description: "A shocked or horrified expression from Nagatoro."
+    usage_scenarios:
+      - "Reacting to something shocking or unbelievable"
+      - "When you are horrified or scared"
+      - "Expressing disbelief"
+    tags: ["shocked", "horrified", "scared", "disbelief", "nagatoro"]
+    character_appearance: "Nagatoro, a dark-skinned female anime character with long dark hair, with a wide-eyed, shocked expression."
+
+  - id: "nagatoro_unamused"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/nagatoro_unamused.png"
+    description: "Nagatoro looking bored and unimpressed with her arms crossed."
+    usage_scenarios:
+      - "When you are feeling bored or unimpressed"
+      - "Expressing dissatisfaction or impatience"
+      - "When someone is being dull"
+    tags: ["bored", "unimpressed", "annoyed", "nagatoro"]
+    character_appearance: "Nagatoro, a dark-skinned female anime character with long dark hair, looking away with a bored expression and her arms crossed."
+
+  - id: "nagatoro_smug_face"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/nagatoro_smug_face.png"
+    description: "A very smug, close-up, black and white image of Nagatoro's face."
+    usage_scenarios:
+      - "For maximum smugness"
+      - "When you are feeling particularly mischievous or superior"
+      - "Teasing someone relentlessly"
+    tags: ["smug", "mischievous", "superior", "teasing", "nagatoro"]
+    character_appearance: "A black and white manga-style close-up of Nagatoro's face with an intensely smug and mischievous grin."
+
+  - id: "neptune_happy"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/neptune_happy.png"
+    description: "A very happy and welcoming Neptune from Hyperdimension Neptunia with open arms."
+    usage_scenarios:
+      - "Greeting someone with excitement"
+      - "Expressing pure happiness and joy"
+      - "When you're feeling cheerful and energetic"
+    tags: ["happy", "excited", "joyful", "welcoming", "neptune", "neptunia"]
+    character_appearance: "Neptune, a female anime character with purple hair and D-pad hair clips, smiling happily with her arms outstretched."
+
+  - id: "neptune_secret"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/neptune_secret.png"
+    description: "Neptune whispering 'pssst', as if sharing a secret."
+    usage_scenarios:
+      - "When you're about to share a secret or some gossip"
+      - "To get someone's attention quietly"
+      - "Hinting at something secretively"
+    tags: ["secret", "psst", "gossip", "whisper", "neptune", "neptunia"]
+    character_appearance: "Neptune, a female anime character with purple hair and D-pad hair clips, holding a finger to her lips with the word 'pssst'."
+
+  - id: "neptune_confused"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/neptune_confused.png"
+    description: "A very confused Neptune from Hyperdimension Neptunia."
+    usage_scenarios:
+      - "When you are feeling unsure or perplexed"
+      - "Reacting to something unexpected or confusing"
+      - "After a long day of work or gaming"
+    tags: ["confused", "perplexed", "uncertain", "neptune", "neptunia"]
+    character_appearance: "Neptune, a female anime character with purple hair and D-pad hair clips, looking utterly confused with a puzzled expression."
+
+  - id: "neptune_smug"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/neptune_smug.png"
+    description: "A smug, self-satisfied smile from Neptune of Hyperdimension Neptunia."
+    usage_scenarios:
+      - "When you feel proud of yourself"
+      - "Reacting with calm confidence"
+      - "When you've just made a clever move or comment"
+    tags: ["smug", "confident", "satisfied", "neptune", "neptunia"]
+    character_appearance: "Neptune, a female anime character with purple hair and D-pad hair clips, with a gentle, smug smile."
+
+  - id: "senko_disturbed"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/senko_disturbed.png"
+    description: "A disturbed and slightly panicked Senko-san."
+    usage_scenarios:
+      - "When you are feeling disturbed or unsettled"
+      - "Reacting to an unexpected compliment or situation"
+      - "When you are shy or overwhelmed"
+    tags: ["disturbed", "panicked", "shy", "embarrassed", "senko", "helpful_fox"]
+    character_appearance: "Senko-san, a fox-girl with orange hair, fox ears, and yellow eyes, looking disturbed with a blue blush."
+
+  - id: "tsumiki_warm_glare"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/tsumiki_warm_glare.png"
+    description: "Tsumiki Miniwa from Acchi Kocchi looking with a warm glare."
+    usage_scenarios:
+      - "When you are welcoming someone with a warm look"
+      - "Reacting to a friendly gesture"
+      - "Expressing gratitude or appreciation"
+    tags: ["warm", "friendly", "grateful", "tsumiki", "acchi_kocchi"]
+    character_appearance: "Tsumiki Miniwa, a short female anime character with long purple hair and cat ears, looking down sadly."
+
+  - id: "noire_shocked"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/noire_shocked.png"
+    description: "A shocked and wide-eyed Noire from Hyperdimension Neptunia, possibly shouting."
+    usage_scenarios:
+      - "Reacting with shock or alarm"
+      - "When something completely unexpected happens"
+      - "Expressing surprise or disbelief"
+    tags: ["shocked", "surprised", "alarmed", "yelling", "noire", "neptunia"]
+    character_appearance: "Noire, a female anime character with long black hair and red eyes, with her mouth open in shock."
