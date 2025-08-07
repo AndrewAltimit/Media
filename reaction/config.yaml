@@ -20,7 +20,7 @@ reaction_images:
       - "Celebrating something pleasant"
       - "Music-related contexts (due to headphones)"
     tags: ["happy", "cheerful", "excited", "positive", "music"]
-    character_appearance: "Light-haired girl with pink headphones, smiling"
+    character_appearance: "Light-haired cat boy with pink headphones, smiling"
 
   - id: "konata_typing"
     source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/konata_typing.webp"
@@ -84,7 +84,7 @@ reaction_images:
 
 
   - id: "tohru_smug"
-    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/tohru_smug.pmg"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/tohru_smug.png"
     description: "A smug, knowing, or slightly mischievous expression from Tohru."
     usage_scenarios:
       - "When you're feeling confident or superior"
@@ -95,7 +95,7 @@ reaction_images:
     character_appearance: "Tohru, a female anime character with blonde hair, red eyes, and dragon horns, wearing a maid outfit."
 
   - id: "astolfo_smug"
-    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/astolfo_smug.webp"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/astolfo_smug.png"
     description: "A confident and smug smirk from Astolfo from the Fate series."
     usage_scenarios:
       - "When feeling cheeky or playfully arrogant"
@@ -106,7 +106,7 @@ reaction_images:
     character_appearance: "Astolfo, a character with long pink hair, purple eyes, and a black hair accessory."
 
   - id: "aqua_happy"
-    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/aqua_happy.webp"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/aqua_happy.png"
     description: "An ecstatic and overjoyed expression from a chibi-style Aqua from KonoSuba."
     usage_scenarios:
       - "Expressing extreme happiness or excitement"
@@ -117,7 +117,7 @@ reaction_images:
     character_appearance: "A chibi-style female anime character with light blue hair and a very happy expression."
 
   - id: "hifumi_studious"
-    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/hifumi_studious.webp"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/hifumi_studious.png"
     description: "A focused and studious chibi character, Hifumi Takimoto, diligently writing or drawing."
     usage_scenarios:
       - "When you are concentrating deeply on a task"
@@ -128,7 +128,7 @@ reaction_images:
     character_appearance: "Hifumi Takimoto, a chibi-style female anime character with short black hair and purple eyes, looking down at a notepad."
 
   - id: "kagami_annoyed"
-    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/kagami_annoyed.webp"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/kagami_annoyed.png"
     description: "An annoyed, tired, or exasperated expression from Kagami Hiiragi from Lucky Star."
     usage_scenarios:
       - "Reacting to something annoying or frustrating"
@@ -139,7 +139,7 @@ reaction_images:
     character_appearance: "Kagami Hiiragi, a female anime character with long purple hair in pigtails, looking annoyed."
 
   - id: "aqua_pout"
-    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/aqua_pout.webp"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/aqua_pout.png"
     description: "A bored, pouting, or unimpressed expression from Aqua from KonoSuba."
     usage_scenarios:
       - "When you are feeling bored or uninterested"
@@ -149,13 +149,101 @@ reaction_images:
     tags: ["bored", "pouting", "unimpressed", "sulking", "aqua", "konosuba"]
     character_appearance: "Aqua, a female anime character with light blue hair and blue eyes, resting her head on her hand with a pouty expression."
 
-  - id: "soleil_smug_tea"
-    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/soleil_smug_tea.webp"
-    description: "A smug and satisfied expression from Soleil from Fire Emblem, while drinking tea."
+  - id: "astolfo_smug_tea"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/astolfo_smug_tea.png"
+    description: "A smug and satisfied expression from Astolfo from Fate/Grand Order, while drinking tea."
     usage_scenarios:
       - "When you are feeling relaxed and content"
       - "Enjoying a moment of peace and satisfaction"
       - "Reacting to drama with a calm, knowing attitude"
       - "When you are about to say something witty or insightful"
-    tags: ["smug", "relaxed", "satisfied", "tea", "soleil", "fire_emblem"]
-    character_appearance: "Soleil, a female anime character with pink hair and a white headdress, smiling with her eyes closed while holding a teacup."
+    tags: ["smug", "relaxed", "satisfied", "tea", "astolfo", "fate"]
+    character_appearance: "Astolfo, a character with long pink hair, purple eyes, and a black hair accessory, smiling with a teacup."
+
+  - id: "thinking_foxgirl"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/thinking_foxgirl.png"
+    description: "A foxgirl with a thoughtful, questioning expression, hand on her chin."
+    usage_scenarios:
+      - "When deep in thought or contemplating something"
+      - "Expressing curiosity or skepticism"
+      - "When trying to solve a problem or understand a concept"
+      - "Reacting to a thought-provoking statement"
+    tags: ["thinking", "questioning", "curious", "skeptical", "foxgirl"]
+    character_appearance: "A foxgirl with light brown hair, red eyes, and fox ears, with a hand on her chin in a thinking pose."
+
+  - id: "keqing_party"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/keqing_party.png"
+    description: "Keqing from Genshin Impact celebrating with a party blower."
+    usage_scenarios:
+      - "Celebrating a happy occasion or achievement"
+      - "Expressing excitement and joy"
+      - "When in a festive or party mood"
+      - "Reacting to good news with enthusiasm"
+    tags: ["celebration", "party", "excited", "joyful", "keqing", "genshin_impact"]
+    character_appearance: "Keqing from Genshin Impact with purple hair and cat-like ears, wearing a party hat and blowing a party horn."
+
+  - id: "nao_annoyed"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/nao_annoyed.png"
+    description: "An annoyed and slightly disgusted expression from Nao Tomori from the anime Charlotte."
+    usage_scenarios:
+      - "Reacting to something irritating or unpleasant"
+      - "Expressing disapproval or annoyance"
+      - "When someone says something you strongly disagree with"
+      - "Showing disgust or displeasure"
+    tags: ["annoyed", "disgusted", "displeased", "irritated", "nao_tomori", "charlotte"]
+    character_appearance: "Nao Tomori, a female anime character with white hair and blue eyes, making a face of annoyance and disgust."
+
+  - id: "thinking_girl"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/thinking_girl.png"
+    description: "A girl with a thoughtful, questioning expression, hand on her chin."
+    usage_scenarios:
+      - "When deep in thought or contemplating something"
+      - "Expressing curiosity or skepticism"
+      - "When trying to solve a problem or understand a concept"
+      - "Reacting to a thought-provoking statement"
+    tags: ["thinking", "questioning", "curious", "skeptical", "girl"]
+    character_appearance: "A girl with light brown hair, red eyes, and a hand on her chin in a thinking pose."
+
+  - id: "felix_cheer"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/felix_cheer.png"
+    description: "Felix Argyle from Re:Zero cheering enthusiastically with pom-poms."
+    usage_scenarios:
+      - "Showing support and encouragement"
+      - "Cheering someone on"
+      - "Expressing excitement for a positive outcome"
+      - "Reacting with energetic approval"
+    tags: ["cheering", "support", "encouragement", "excited", "felix_argyle", "re:zero"]
+    character_appearance: "Felix Argyle, a character with light brown hair and cat ears, wearing a blue and white outfit and holding yellow and pink pom-poms."
+
+  - id: "felix_love"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/felix_love.png"
+    description: "Felix Argyle from Re:Zero hugging a large, sparkling heart with a loving expression."
+    usage_scenarios:
+      - "Expressing immense love or affection"
+      - "Showing deep appreciation for something"
+      - "Reacting with overwhelming fondness"
+      - "When your heart is full of love"
+    tags: ["love", "heart", "affection", "adoration", "felix_argyle", "re:zero"]
+    character_appearance: "Felix Argyle with light brown hair and cat ears, hugging a large pink heart with a blissful expression."
+
+  - id: "felix_peek"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/felix_peek.png"
+    description: "Felix Argyle from Re:Zero peeking from behind a wall with a curious and slightly shy expression."
+    usage_scenarios:
+      - "Peeking into a conversation or situation"
+      - "Expressing curiosity in a shy or tentative manner"
+      - "When you're observing something from the sidelines"
+      - "Reacting with cautious interest"
+    tags: ["peeking", "curious", "shy", "observing", "felix_argyle", "re:zero"]
+    character_appearance: "Felix Argyle with light brown hair and cat ears, peeking from behind a purple wall with wide, curious eyes."
+
+  - id: "satania_smug"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/satania_smug.png"
+    description: "A smug and triumphant expression from Satania from the anime Gabriel DropOut."
+    usage_scenarios:
+      - "When you feel like you've just outsmarted someone"
+      - "Expressing a sense of superiority or victory"
+      - "Reacting with a proud and smug look"
+      - "When a clever plan (or what you think is a clever plan) comes together"
+    tags: ["smug", "triumphant", "superior", "proud", "satania", "gabriel_dropout"]
+    character_appearance: "Satania, a female anime character with red hair, red eyes, and small bat-like wings on her head, with a smug grin."
