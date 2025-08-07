@@ -81,3 +81,81 @@ reaction_images:
       - "Acknowledging someone's correct insight"
     tags: ["realization", "head-bonk", "of-course", "duh", "acknowledgment", "insight"]
     character_appearance: "Girl bonking herself on the head in realization"
+
+
+  - id: "tohru_smug"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/tohru_smug.pmg"
+    description: "A smug, knowing, or slightly mischievous expression from Tohru."
+    usage_scenarios:
+      - "When you're feeling confident or superior"
+      - "Reacting to something with a bit of arrogance"
+      - "When you know something someone else doesn't"
+      - "Teasing someone playfully"
+    tags: ["smug", "confident", "knowing", "mischievous", "tohru"]
+    character_appearance: "Tohru, a female anime character with blonde hair, red eyes, and dragon horns, wearing a maid outfit."
+
+  - id: "astolfo_smug"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/astolfo_smug.webp"
+    description: "A confident and smug smirk from Astolfo from the Fate series."
+    usage_scenarios:
+      - "When feeling cheeky or playfully arrogant"
+      - "Reacting with confidence and a hint of mischief"
+      - "When you've done something clever"
+      - "Expressing self-satisfaction"
+    tags: ["smug", "confident", "mischievous", "smirk", "astolfo", "fate"]
+    character_appearance: "Astolfo, a character with long pink hair, purple eyes, and a black hair accessory."
+
+  - id: "aqua_happy"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/aqua_happy.webp"
+    description: "An ecstatic and overjoyed expression from a chibi-style Aqua from KonoSuba."
+    usage_scenarios:
+      - "Expressing extreme happiness or excitement"
+      - "Reacting to great news with overwhelming joy"
+      - "When something amazing happens"
+      - "Celebrating a victory or achievement"
+    tags: ["happy", "excited", "joyful", "ecstatic", "celebrating", "aqua", "konosuba"]
+    character_appearance: "A chibi-style female anime character with light blue hair and a very happy expression."
+
+  - id: "hifumi_studious"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/hifumi_studious.webp"
+    description: "A focused and studious chibi character, Hifumi Takimoto, diligently writing or drawing."
+    usage_scenarios:
+      - "When you are concentrating deeply on a task"
+      - "Showing that you are studying or working hard"
+      - "When you are in a creative or focused mood"
+      - "Taking notes or planning something important"
+    tags: ["focused", "studious", "concentrating", "writing", "drawing", "hifumi", "new_game"]
+    character_appearance: "Hifumi Takimoto, a chibi-style female anime character with short black hair and purple eyes, looking down at a notepad."
+
+  - id: "kagami_annoyed"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/kagami_annoyed.webp"
+    description: "An annoyed, tired, or exasperated expression from Kagami Hiiragi from Lucky Star."
+    usage_scenarios:
+      - "Reacting to something annoying or frustrating"
+      - "When you're tired of someone's antics"
+      - "Expressing exasperation or disbelief"
+      - "When you are unimpressed or fed up"
+    tags: ["annoyed", "tired", "exasperated", "unimpressed", "sigh", "kagami", "lucky_star"]
+    character_appearance: "Kagami Hiiragi, a female anime character with long purple hair in pigtails, looking annoyed."
+
+  - id: "aqua_pout"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/aqua_pout.webp"
+    description: "A bored, pouting, or unimpressed expression from Aqua from KonoSuba."
+    usage_scenarios:
+      - "When you are feeling bored or uninterested"
+      - "Pouting or sulking in a playful way"
+      - "Reacting with a lack of enthusiasm"
+      - "When you're waiting for something to happen"
+    tags: ["bored", "pouting", "unimpressed", "sulking", "aqua", "konosuba"]
+    character_appearance: "Aqua, a female anime character with light blue hair and blue eyes, resting her head on her hand with a pouty expression."
+
+  - id: "soleil_smug_tea"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/soleil_smug_tea.webp"
+    description: "A smug and satisfied expression from Soleil from Fire Emblem, while drinking tea."
+    usage_scenarios:
+      - "When you are feeling relaxed and content"
+      - "Enjoying a moment of peace and satisfaction"
+      - "Reacting to drama with a calm, knowing attitude"
+      - "When you are about to say something witty or insightful"
+    tags: ["smug", "relaxed", "satisfied", "tea", "soleil", "fire_emblem"]
+    character_appearance: "Soleil, a female anime character with pink hair and a white headdress, smiling with her eyes closed while holding a teacup."
