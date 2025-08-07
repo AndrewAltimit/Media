@@ -616,3 +616,79 @@ reaction_images:
       - "Expressing a 'not this again' feeling"
     tags: ["bored", "annoyed", "unimpressed", "sipping", "nico_yazawa", "love_live"]
     character_appearance: "Nico Yazawa, a female anime character with black hair in pigtails with red ribbons, looking bored while sipping from a fast-food cup."
+
+  - id: "menhera_stare"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/menhera_stare.webp"
+    description: "A neutral but intense stare, often associated with the character Menhera-chan. The Japanese 'jii' sound effect emphasizes the act of staring."
+    usage_scenarios:
+      - "When you are silently judging or observing something"
+      - "To show you are looking at something intently"
+      - "Reacting to something that makes you stare blankly"
+      - "Expressing quiet scrutiny"
+    tags: ["stare", "judging", "observing", "neutral", "menhera", "jii"]
+    character_appearance: "A female anime character with shoulder-length brown hair and large brown eyes, wearing a dark hoodie. The Japanese text 'じー' is overlaid."
+
+  - id: "satania_smug_grin"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/satania_smug_grin.webp"
+    description: "A smug and mischievous evil grin from Satania from the anime Gabriel DropOut."
+    usage_scenarios:
+      - "When you've come up with a mischievous or devilish plan"
+      - "Reacting with evil delight"
+      - "When feeling devilishly smug or proud of a minor evil act"
+      - "Playfully acting like a villain"
+    tags: ["smug", "evil", "grin", "mischievous", "plotting", "satania", "gabriel_dropout"]
+    character_appearance: "Satania, a female anime character with short red hair, showing a wide, smug grin with her eyes shadowed."
+
+  - id: "maki_annoyed"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/maki_annoyed.webp"
+    description: "An annoyed, unimpressed, or classic 'tsundere' expression from Maki Nishikino from Love Live!."
+    usage_scenarios:
+      - "When someone says something foolish or cringeworthy"
+      - "Expressing slight annoyance or disbelief"
+      - "A typical tsundere reaction to something embarrassing"
+      - "When you're trying to hide that you're flustered"
+    tags: ["annoyed", "unimpressed", "serious", "tsundere", "maki", "love_live"]
+    character_appearance: "Maki Nishikino, a female anime character with long, wavy red hair and purple eyes, looking aside with a displeased expression."
+
+  - id: "chika_panik"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/chika_panik.webp"
+    description: "A panicked, shocked, or flustered reaction from Chika Fujiwara from Kaguya-sama: Love Is War."
+    usage_scenarios:
+      - "Reacting to shocking or completely unexpected news"
+      - "When a situation suddenly gets out of hand"
+      - "Expressing extreme panic or being flustered"
+      - "When plans go horribly wrong"
+    tags: ["shocked", "panicked", "surprised", "flustered", "chika", "kaguya-sama"]
+    character_appearance: "Chika Fujiwara, a female anime character with long pink hair and a black bow, with a wide-eyed, open-mouthed expression of panic. [2]"
+
+  - id: "kyouko_sleepy"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/kyouko_sleepy.webp"
+    description: "A sleepy or tired chibi-style character, Toshinou Kyouko from Yuru Yuri, rubbing her eye."
+    usage_scenarios:
+      - "When you've just woken up"
+      - "Expressing that you are tired or sleepy"
+      - "A cute way to say 'good morning' or 'I'm sleepy'"
+      - "When you're feeling drained or lethargic"
+    tags: ["sleepy", "tired", "waking_up", "yawn", "kyouko", "yuru_yuri"]
+    character_appearance: "A chibi-style female anime character with blonde hair, wearing a yellow-orange outfit, rubbing one of her eyes as if tired."
+
+  - id: "konata_gaming"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/konata_gaming.webp"
+    description: "A focused expression from Konata Izumi from Lucky Star while she is gaming."
+    usage_scenarios:
+      - "When you are focused on playing a video game"
+      - "Showing dedication to gaming, 'gamer mode' activated"
+      - "When you are concentrating intensely on any hobby"
+      - "Ignoring distractions to focus on a screen"
+    tags: ["gaming", "focused", "concentrating", "gamer", "konata", "lucky_star"]
+    character_appearance: "Konata Izumi, a female anime character with long blue hair and green eyes, holding a game controller with a focused expression."
+
+  - id: "azusa_giggling"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/azusa_giggling.webp"
+    description: "A giggling reaction from Azusa Nakano from K-On!."
+    usage_scenarios:
+      - "Reacting to something cute or funny"
+      - "When you find something amusing"
+      - "A shy or playful giggle"
+    tags: ["giggling", "cute", "azusa", "k-on"]
+    character_appearance: "Azusa Nakano, a female anime character with long black hair in pigtails giggling with her hands covering her mouth."
