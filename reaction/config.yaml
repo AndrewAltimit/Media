@@ -1,0 +1,83 @@
+reaction_images:
+  - id: "confused"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/confused.gif"
+    description: "Confused or questioning expression"
+    usage_scenarios:
+      - "When someone says something confusing or contradictory"
+      - "Expressing bewilderment or uncertainty"
+      - "Reacting to unexpected or puzzling information"
+      - "When you don't understand something"
+    tags: ["confused", "questioning", "uncertain", "puzzled"]
+    character_appearance: "Dark-haired girl with twin tails and question mark"
+
+  - id: "felix"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/felix.webp"
+    description: "Happy, cheerful, or excited expression"
+    usage_scenarios:
+      - "Expressing joy or excitement"
+      - "Positive reaction to good news"
+      - "When feeling cheerful or upbeat"
+      - "Celebrating something pleasant"
+      - "Music-related contexts (due to headphones)"
+    tags: ["happy", "cheerful", "excited", "positive", "music"]
+    character_appearance: "Light-haired girl with pink headphones, smiling"
+
+  - id: "konata_typing"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/konata_typing.webp"
+    description: "Concentrated, focused, or determined expression"
+    usage_scenarios:
+      - "When working on something important"
+      - "Showing determination or focus"
+      - "Concentrating on a task"
+      - "Serious or contemplative moments"
+      - "Study or work-related contexts"
+    tags: ["focused", "concentrated", "determined", "serious", "working"]
+    character_appearance: "Blue-haired girl in focused pose, appears to be working"
+
+  - id: "yuki_typing"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/yuki_typing.webp"
+    description: "Intense typing or frantic computer work"
+    usage_scenarios:
+      - "When coding or typing rapidly"
+      - "Responding to urgent messages or deadlines"
+      - "Working intensely on a computer task"
+      - "Expressing busy or frantic activity"
+      - "Hacker or programmer mode"
+    tags: ["typing", "frantic", "busy", "computer", "intense", "working"]
+    character_appearance: "Person typing rapidly at a laptop with motion blur"
+
+  - id: "miku_typing"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/miku_typing.webp"
+    description: "Thoughtful typing or gathering thoughts"
+    usage_scenarios:
+      - "When thinking carefully before responding"
+      - "Typing slowly while considering options"
+      - "Gathering thoughts or ideas"
+      - "Contemplative writing or messaging"
+      - "Taking time to formulate a response"
+    tags: ["thinking", "typing", "contemplative", "thoughtful", "gathering-thoughts", "miku"]
+    character_appearance: "Hatsune Miku typing slowly and thoughtfully"
+
+  - id: "teamwork"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/teamwork.webp"
+    description: "Strong teamwork or intense collaboration"
+    usage_scenarios:
+      - "Showing strong teamwork or partnership"
+      - "Intense collaboration or agreement"
+      - "Powerful alliance or cooperation"
+      - "Determined joint effort"
+      - "Aggressive but positive teamwork"
+    tags: ["teamwork", "handshake", "collaboration", "partnership", "intense", "cooperation"]
+    character_appearance: "Two people shaking hands aggressively with intense teamwork energy"
+
+  - id: "youre_absolutely_right"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/youre_absolutely_right.webp"
+    description: "Realization or 'of course!' moment with self-bonk"
+    usage_scenarios:
+      - "When someone makes a great point"
+      - "Realizing something obvious you missed"
+      - "'Of course! You're absolutely right!' moments"
+      - "Self-directed 'duh' reaction"
+      - "Acknowledging someone's correct insight"
+    tags: ["realization", "head-bonk", "of-course", "duh", "acknowledgment", "insight"]
+    character_appearance: "Girl bonking herself on the head in realization"
