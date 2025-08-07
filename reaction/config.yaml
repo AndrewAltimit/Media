@@ -659,7 +659,7 @@ reaction_images:
       - "Expressing extreme panic or being flustered"
       - "When plans go horribly wrong"
     tags: ["shocked", "panicked", "surprised", "flustered", "chika", "kaguya-sama"]
-    character_appearance: "Chika Fujiwara, a female anime character with long pink hair and a black bow, with a wide-eyed, open-mouthed expression of panic. [2]"
+    character_appearance: "Chika Fujiwara, a female anime character with long pink hair and a black bow, with a wide-eyed, open-mouthed expression of panic."
 
   - id: "kyouko_sleepy"
     source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/kyouko_sleepy.webp"
@@ -692,3 +692,153 @@ reaction_images:
       - "A shy or playful giggle"
     tags: ["giggling", "cute", "azusa", "k-on"]
     character_appearance: "Azusa Nakano, a female anime character with long black hair in pigtails giggling with her hands covering her mouth."
+
+  - id: "kyouko_excited"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/kyouko_excited.webp"
+    description: "An excited and amazed reaction from Toshino Kyoko from Yuru Yuri."
+    usage_scenarios:
+      - "When seeing something amazing or awesome"
+      - "Expressing great excitement or anticipation"
+      - "Reacting to a fantastic idea"
+    tags: ["excited", "amazed", "sparkly", "awesome", "kyouko", "yuru_yuri"]
+    character_appearance: "Toshino Kyoko, a female anime character with long brown hair and sparkling red eyes, holding her hands up in excitement."
+
+  - id: "nico_pout"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/nico_pout.webp"
+    description: "A pouting and unimpressed expression from Nico Yazawa from Love Live!, wearing a fluffy hoodie."
+    usage_scenarios:
+      - "When you're sulking or pouting"
+      - "Expressing disapproval in a cute or grumpy way"
+      - "When something doesn't go your way"
+    tags: ["pouting", "annoyed", "unimpressed", "grumpy", "nico", "love_live"]
+    character_appearance: "Nico Yazawa, a female anime character with black hair tied in pigtails and red eyes, pouting while wearing a white fluffy hoodie."
+
+  - id: "kirino_waving"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/kirino_waving.webp"
+    description: "A cheerful wave from Kirino Kousaka from Ore no Imouto ga Konna ni Kawaii Wake ga Nai."
+    usage_scenarios:
+      - "Greeting someone enthusiastically"
+      - "Saying hello or goodbye in a friendly way"
+      - "Expressing happiness and friendliness"
+    tags: ["waving", "hello", "goodbye", "cheerful", "kirino", "ore_no_imouto"]
+    character_appearance: "Kirino Kousaka, a female anime character with long blonde hair and blue eyes, wearing a blue dress and waving happily."
+
+  - id: "kurisu_thumbs_up"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/kurisu_thumbs_up.webp"
+    description: "A focused expression from Kurisu Makise from Steins;Gate, wearing headphones giving a thumbs up."
+    usage_scenarios:
+      - "When listening intently to something"
+      - "Focusing on a task or conversation"
+      - "Giving approval or encouragement"
+    tags: ["thumbs_up", "focused", "listening", "headphones", "kurisu", "steins_gate"]
+    character_appearance: "Kurisu Makise, a female anime character with long red hair and purple eyes, looking serious while wearing headphones."
+
+  - id: "karen_heart"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/karen_heart.webp"
+    description: "A heartwarming and gentle smile from Karen Kujou from Kiniro Mosaic handing out a heart reaction."
+    usage_scenarios:
+      - "When you're feeling warm and fuzzy inside"
+      - "A sweet reaction to something heartwarming"
+      - "Expressing self-satisfaction"
+    tags: ["heart", "warming", "smiling", "karen", "kiniro_mosaic"]
+    character_appearance: "Karen Kujou, a female anime character with long blonde hair and purple eyes, handing out a heart reaction."
+
+  - id: "miku_leek"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/miku_leek.webp"
+    description: "A chibi version of Hatsune Miku, a popular Vocaloid character, holding a leek with an excited expression."
+    usage_scenarios:
+      - "A fun and playful reaction"
+      - "Expressing excitement in a cute way"
+      - "Referencing the classic 'Leekspin' meme"
+    tags: ["chibi", "cute", "excited", "leek", "miku", "vocaloid"]
+    character_appearance: "A chibi version of Hatsune Miku, a female character with long teal pigtails, holding a leek."
+
+  - id: "miku_excited_jump"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/miku_excited_jump.webp"
+    description: "A happy, chibi-style Hatsune Miku jumping with excitement."
+    usage_scenarios:
+      - "Expressing overwhelming joy or excitement"
+      - "A cute way of showing happiness"
+      - "When feeling cheerful and positive"
+    tags: ["chibi", "happy", "cute", "jumping", "miku", "vocaloid"]
+    character_appearance: "A chibi version of Hatsune Miku, a female character with long blue hair in pigtails, happily jumping with excitement."
+
+  - id: "tsumiki_glare_happy"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/tsumiki_glare_happy.webp"
+    description: "Tsumiki Miniwa from Acchi Kocchi looking with a warm glare featuring twitching cat ears."
+    usage_scenarios:
+      - "When feeling playful or teasing"
+      - "A cute way to express a warm glare"
+      - "Reacting to something that makes you smile warmly"
+    tags: ["warm_glare", "tsumiki", "acchi_kocchi", "cat_ears"]
+    character_appearance: "Tsumiki Miniwa, a female anime character with long brown hair and cat ears, looking with a warm glare."
+
+  - id: "nico_oh_yes"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/nico_oh_yes.webp"
+    description: "A smug and triumphant expression from Nico Yazawa from Love Live! with the text 'OH, YES.'"
+    usage_scenarios:
+      - "When something goes exactly as planned"
+      - "A triumphant or gloating reaction"
+      - "Expressing enthusiastic agreement"
+    tags: ["smug", "triumphant", "yes", "nico", "love_live"]
+    character_appearance: "Nico Yazawa, a female anime character with black hair and red eyes, with a smug, determined expression."
+
+  - id: "noire_shocked"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/noire_shocked.webp"
+    description: "A shocked or surprised expression from Noire from Hyperdimension Neptunia."
+    usage_scenarios:
+      - "Reacting to sudden, unexpected information"
+      - "When you are startled or taken aback"
+      - "Expressing disbelief or shock"
+    tags: ["shocked", "surprised", "startled", "noire", "hyperdimension_neptunia"]
+    character_appearance: "Noire, a female anime character with black hair and red eyes, shown with a wide-eyed, shocked expression."
+
+  - id: "taking_notes_determined"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/taking_notes_determined.webp"
+    description: "A determined and focused expression while taking notes holding a pencil."
+    usage_scenarios:
+      - "When you're studying or working hard"
+      - "Showing determination to complete a task"
+      - "Focusing on a creative or intellectual challenge"
+    tags: ["determined", "focused", "studying", "writing", "megumin", "konosuba"]
+    character_appearance: "A female anime character with brown hair and red eyes, looking up with a determined expression while holding a pencil."
+
+  - id: "neptune_gleeful"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/neptune_gleeful.webp"
+    description: "A gleeful and extremely happy expression from Neptune from Hyperdimension Neptunia."
+    usage_scenarios:
+      - "Expressing pure joy and excitement"
+      - "When something wonderful happens"
+      - "Reacting with overwhelming happiness"
+    tags: ["gleeful", "happy", "excited", "joy", "neptune", "hyperdimension_neptunia"]
+    character_appearance: "Neptune, a female anime character with light purple hair and a white hoodie, clasping her hands together with a wide, joyful smile."
+
+  - id: "tsumiki_content"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/tsumiki_content.webp"
+    description: "A content and happy expression from Tsumiki Miniwa from Acchi Kocchi, peeking her head up."
+    usage_scenarios:
+      - "When feeling cozy and content"
+      - "A calm and happy reaction"
+      - "Expressing a sense of peace and satisfaction"
+    tags: ["content", "happy", "cozy", "blushing", "tsumiki", "acchi_kocchi"]
+    character_appearance: "Tsumiki Miniwa, a female anime character with brown hair and cat ears, peeking her head up with a content smile."
+
+  - id: "popcorn_eating"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/popcorn_eating.webp"
+    description: "A happy anime girl eagerly eating popcorn."
+    usage_scenarios:
+      - "When watching drama unfold"
+      - "Settling in to watch a movie or show"
+      - "Expressing enjoyment of an entertaining situation"
+    tags: ["popcorn", "watching", "drama", "entertained"]
+    character_appearance: "A chibi-style female anime character with blonde hair, happily eating popcorn."
+
+  - id: "satania_laugh"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/satania_laugh.webp"
+    description: "Satania from Gabriel DropOut laughing mischievously."
+    usage_scenarios:
+      - "When a prank or mischievous plan succeeds"
+      - "A villainous or playful evil laugh"
+      - "Finding something devilishly funny"
+    tags: ["laughing", "mischievous", "evil_laugh", "satania", "gabriel_dropout"]
+    character_appearance: "Satania, a female anime character with red hair and a small bat wing accessory, covering her mouth while laughing."
