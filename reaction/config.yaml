@@ -842,3 +842,255 @@ reaction_images:
       - "Finding something devilishly funny"
     tags: ["laughing", "mischievous", "evil_laugh", "satania", "gabriel_dropout"]
     character_appearance: "Satania, a female anime character with red hair and a small bat wing accessory, covering her mouth while laughing."
+
+  - id: "tohru_thumbs_up"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/tohru_thumbs_up.webp"
+    description: "Tohru from Miss Kobayashi's Dragon Maid breaking into a warm smile and raising a thumbs up."
+    usage_scenarios:
+      - "Giving a friendly LGTM and approving the pull request"
+      - "Cheerfully confirming that a fix works after testing it"
+      - "Encouraging a contributor after their first merged PR"
+      - "Replying 'sounds good!' to a proposed change in review"
+      - "Marking a review thread as resolved with a happy thumbs up"
+    tags: ["thumbs_up", "approval", "lgtm", "warm", "tohru", "dragon_maid"]
+    character_appearance: "Tohru, with long blonde-to-orange gradient hair, small dragon horns and a maid outfit; animated so she starts with a neutral look, closes her eyes into a big smile and lifts a white-gloved thumbs up, holding it while grinning."
+
+  - id: "satania_thumbs_up"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/satania_thumbs_up.png"
+    description: "Satania from Gabriel DropOut squeezing her eyes shut with a huge grin and a big thumbs up."
+    usage_scenarios:
+      - "Enthusiastic 'nailed it!' approval of a clean fix"
+      - "Being proud of a bug fix or refactor that turned out well"
+      - "Hyped approval when a PR fixes everything that was asked"
+      - "Saying 'great job!' to a contributor with lots of energy"
+      - "Celebrating a passing test suite on the first try"
+    tags: ["thumbs_up", "nailed_it", "proud", "enthusiastic", "satania", "gabriel_dropout"]
+    character_appearance: "Satania, with red hair and a small bat-wing hair ornament, eyes squeezed shut in a delighted >< shape and mouth wide open in a cheer, pushing a thumbs up toward the viewer in the foreground; static image."
+
+  - id: "satania_crying"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/satania_crying.webp"
+    description: "Satania sobbing with tears welling up"
+    usage_scenarios:
+      - "Crying over a build that has failed for the fifth time in a row"
+      - "When a carefully written patch is rejected or has to be reverted"
+      - "Reacting to a regression that undoes hours of earlier work"
+      - "When the bug turns out to be in your own code after blaming the library"
+      - "General sadness, heartbreak, or being on the verge of tears"
+    tags: ["crying", "sad", "sobbing", "tears", "satania", "gabriel_dropout"]
+    character_appearance: "Close-up of Satania from Gabriel DropOut, a red-haired girl with squeezed-shut eyes, flushed cheeks, a small fang and a trembling wobbly mouth; animated, tears bead and fall from the corners of her eyes as she sobs"
+
+  - id: "reimu_facepalm"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/reimu_facepalm.png"
+    description: "Reimu groaning with her hand over her face"
+    usage_scenarios:
+      - "Spotting an obvious bug like an off-by-one or a missing null check"
+      - "When the same review comment has to be made yet again"
+      - "Reacting to a commit that leaves debug prints or secrets in the code"
+      - "Groaning 'not this again' at a recurring mistake"
+      - "General exasperation at a silly avoidable error"
+    tags: ["facepalm", "exasperated", "groan", "reimu", "touhou"]
+    character_appearance: "Reimu Hakurei from Touhou, a brown-haired girl with a large red bow, eyes closed and mouth open in a groan, palm pressed against her forehead"
+
+  - id: "kurumi_horrified"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/kurumi_horrified.png"
+    description: "Kurumi screaming in horror with gloom lines"
+    usage_scenarios:
+      - "Horror at finding a serious regression or security hole in a diff"
+      - "Discovering a force-push or migration that destroyed history or data"
+      - "When a review uncovers SQL built by string concatenation or plaintext passwords"
+      - "Seeing a test suite's runtime or memory usage explode after a change"
+      - "General shock and dismay at something terrible"
+    tags: ["horrified", "screaming", "shocked", "dismay", "kurumi", "date_a_live"]
+    character_appearance: "Kurumi Tokisaki from Date A Live, a black-haired girl with a lace headdress, one red eye and one gold clock eye, mouth open in a scream with a hand to her cheek and dark vertical gloom lines over her head"
+
+  - id: "dark_haired_girl_cringe"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/dark_haired_girl_cringe.png"
+    description: "Wincing, teeth-clenched cringe"
+    usage_scenarios:
+      - "Cringing at deeply nested conditionals or a thousand-line function"
+      - "Reading code with copy-pasted blocks and magic numbers everywhere"
+      - "Seeing a hacky workaround labeled 'temporary' from years ago"
+      - "When a fix technically works but is painful to look at"
+      - "General secondhand embarrassment or awkward discomfort"
+    tags: ["cringe", "wince", "grimace", "awkward", "uncomfortable"]
+    character_appearance: "Close-up of a dark-haired anime girl with furrowed brows, a tear in her eye, blushing cheeks and tightly clenched bared teeth in a grimace"
+
+  - id: "mokou_dead_inside"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/mokou_dead_inside.png"
+    description: "Mokou lying flat, dead inside"
+    usage_scenarios:
+      - "When the flaky test fails again for no reason and you just lie down"
+      - "Resigned sigh after yet another round of the same CI failure"
+      - "Giving up energy after a long debugging session that went nowhere"
+      - "When the fix for one bug introduces two more"
+      - "General burnout, defeat, or 'I have no more to give'"
+    tags: ["dead_inside", "resigned", "exhausted", "defeated", "mokou", "touhou"]
+    character_appearance: "Chibi Fujiwara no Mokou from Touhou, a girl with long silver-pink hair, red eyes, white shirt and red suspender pants, lying flat on her back with a blank, lifeless expression"
+
+  - id: "kanna_magnifying_glass"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/kanna_magnifying_glass.png"
+    description: "Close inspection through a magnifying glass, detective mode"
+    usage_scenarios:
+      - "Taking a closer look at a suspicious line in the diff"
+      - "Investigating the root cause of a bug or flaky test"
+      - "Scrutinizing an edge case before approving a PR"
+      - "Digging through a stack trace for clues"
+      - "Double-checking that a claimed fix actually addresses the issue"
+    tags: ["investigating", "inspecting", "detective", "scrutiny", "magnifying_glass", "kanna", "dragon_maid"]
+    character_appearance: "Kanna Kamui from Miss Kobayashi's Dragon Maid, a white/lavender-haired girl holding a large magnifying glass up to one eye, which appears hugely enlarged through the lens; neutral, focused expression"
+
+  - id: "azusa_coffee"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/azusa_coffee.png"
+    description: "Drinking coffee from a mug, fueling up to keep working"
+    usage_scenarios:
+      - "Grabbing coffee before diving into a large review"
+      - "Settling in for a long debugging session"
+      - "Starting work on the requested changes"
+      - "Steady, low-key focus while working through feedback"
+      - "Morning start on a backlog of PRs"
+    tags: ["coffee", "working", "caffeine", "focused", "azusa", "k-on"]
+    character_appearance: "Azusa Nakano from K-On!, a black-haired girl in a dark school blazer, holding a pink cat-print mug to her mouth with both hands and looking ahead with calm, slightly tired eyes"
+
+  - id: "mokou_sleepless"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/mokou_sleepless.png"
+    description: "Sleepless and exhausted, up all night"
+    usage_scenarios:
+      - "Been up all night chasing a bug"
+      - "Can't stop thinking about a failing test"
+      - "Exhausted after a marathon of review rounds"
+      - "Worn out from a late-night hotfix or incident"
+      - "When a problem keeps you awake"
+    tags: ["sleepless", "exhausted", "insomnia", "tired", "late_night", "mokou", "touhou"]
+    character_appearance: "Chibi Fujiwara no Mokou from Touhou, long pale-pink hair with a red-and-white bow, wrapped in a blue polka-dot blanket on a pillow, chin on her hands, red eyes with heavy dark bags underneath"
+
+  - id: "gabriel_asleep"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/gabriel_asleep.png"
+    description: "Fast asleep, dozed off while waiting"
+    usage_scenarios:
+      - "Fell asleep waiting for CI to finish"
+      - "A build or test run that is taking forever"
+      - "PR has been sitting without review for ages"
+      - "Signing off for the night"
+      - "Reacting to a very long, slow process"
+    tags: ["asleep", "sleeping", "zzz", "slow", "waiting", "gabriel", "gabriel_dropout"]
+    character_appearance: "Gabriel Tenma White from Gabriel DropOut, long blonde hair, sleeping peacefully on her side with eyes closed, mouth slightly open, hand curled by her face, with a blue 'Zzz...' above her"
+
+  - id: "pink_hair_pondering"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/pink_hair_pondering.png"
+    description: "Pondering hard, 'hmm, let me think about this'"
+    usage_scenarios:
+      - "Mulling over the best approach to a reviewer's suggestion"
+      - "Weighing trade-offs between two implementations"
+      - "Trying to work out why a test fails only sometimes"
+      - "Thinking through whether a change has side effects"
+      - "Considering a tricky design question before replying"
+    tags: ["pondering", "thinking", "hmm", "contemplating", "puzzling"]
+    character_appearance: "Pink/red-haired anime girl with eyes squeezed shut, furrowed brows, and pursed ':3' lips, finger and thumb pressed to her chin in a deep-thought pose"
+
+  - id: "ochaco_thankful"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/ochaco_thankful.png"
+    description: "Ochaco Uraraka from My Hero Academia smiling gratefully with her palms pressed together."
+    usage_scenarios:
+      - "Thanking a reviewer for a thorough and helpful review"
+      - "Showing appreciation for a great suggestion that improved the code"
+      - "Saying thanks after someone helped debug a tricky CI failure"
+      - "Grateful response when a maintainer approves or merges your PR"
+      - "Expressing heartfelt gratitude or politely asking a favor"
+    tags: ["thanks", "grateful", "appreciation", "please", "ochaco", "my_hero_academia"]
+    character_appearance: "A girl with a brown bob haircut and rosy cheeks, eyes closed in a warm, content smile, wearing a pink scarf and holding her hands together in front of her chin in a thankful, prayer-like gesture."
+
+  - id: "neptune_ok_sign"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/neptune_ok_sign.png"
+    description: "Neptune from Hyperdimension Neptunia winking and flashing an OK hand sign."
+    usage_scenarios:
+      - "Acknowledging review feedback: 'noted, will do'"
+      - "Confirming you understood a requested change before making it"
+      - "Agreeing to a reviewer's naming or style nitpick"
+      - "Cheerfully replying 'got it' to a CI or workflow instruction"
+      - "A quick, upbeat 'okay!' in any conversation"
+    tags: ["ok", "noted", "got_it", "acknowledge", "neptune", "neptunia"]
+    character_appearance: "A chibi girl with lilac hair and white D-pad hair clips, winking with one purple eye and an open cheerful smile, holding up an OK sign with her hand beside her face."
+
+  - id: "akko_shrug"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/akko_shrug.png"
+    description: "Akko Kagari from Little Witch Academia giving a friendly, easygoing shrug."
+    usage_scenarios:
+      - "Politely deferring a suggestion as out of scope for this PR"
+      - "Saying 'that can go in a follow-up issue' with a smile"
+      - "Responding to a nitpick you'll leave as-is since it's a matter of preference"
+      - "Acknowledging a pre-existing problem that this change didn't introduce"
+      - "A good-natured 'eh, it is what it is'"
+    tags: ["shrug", "out_of_scope", "deferral", "easygoing", "akko", "little_witch_academia"]
+    character_appearance: "A girl with long brown hair in a small side ponytail and red eyes, smiling casually with her palms turned up in a shrug, wearing a dark blue witch-academy uniform."
+
+  - id: "ritsu_pleading"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/ritsu_pleading.webp"
+    description: "Ritsu Tainaka from K-On! clasping her hands with big, shimmering pleading eyes."
+    usage_scenarios:
+      - "Nervously hoping the CI pipeline passes this time: 'please be green'"
+      - "Fingers crossed that a risky refactor or migration doesn't break production"
+      - "Pleading with the reviewer to approve a PR before the deadline"
+      - "Anxiously re-running a flaky test and hoping for the best"
+      - "Begging or asking for a big favor"
+    tags: ["pleading", "nervous", "hopeful", "fingers_crossed", "ritsu", "k_on"]
+    character_appearance: "A girl with short brown hair held back by a yellow headband, wide sparkling brown eyes and a small open mouth, hands clasped tightly in front of her chest against a dark background; animated with a subtle shimmering, trembling pleading look."
+
+  - id: "tohru_flex_determined"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/tohru_flex_determined.png"
+    description: "Tohru from Miss Kobayashi's Dragon Maid raising a fist with eager determination."
+    usage_scenarios:
+      - "Replying 'on it!' to requested changes"
+      - "Committing to fix all the review comments right away"
+      - "Taking ownership of a failing build and promising to get it green"
+      - "Volunteering to handle a follow-up task or issue"
+      - "Showing enthusiasm and motivation for a challenge"
+    tags: ["determined", "on_it", "motivated", "eager", "tohru", "dragon_maid"]
+    character_appearance: "A blonde girl with dragon horns and a maid outfit, red eyes, blushing with an open eager smile, holding up a clenched fist in a 'let's do this' pose."
+
+  - id: "kagerou_suspicious_side_eye"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/kagerou_suspicious_side_eye.png"
+    description: "Kagerou Imaizumi from Touhou giving a wary, suspicious sideways glance."
+    usage_scenarios:
+      - "Flagging a PR description or comment that looks like a prompt injection attempt"
+      - "Eyeing an input string or new dependency that seems sketchy before trusting it"
+      - "When a 'trivial one-line fix' quietly touches auth, secrets, or CI config"
+      - "Side-eyeing a test that passes suspiciously fast or a coverage number that looks too good"
+      - "Cautious skepticism toward a claim that still needs verifying"
+    tags: ["suspicious", "side_eye", "wary", "skeptical", "kagerou_imaizumi", "touhou"]
+    character_appearance: "Kagerou Imaizumi, a wolf girl with long messy red hair, red-and-white wolf ears and red eyes, head turned slightly away while her eyes slide sideways toward the viewer, with a small flat wary mouth."
+
+  - id: "momiji_knight_on_guard"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/momiji_knight_on_guard.png"
+    description: "Chibi Momiji Inubashiri from Touhou cheerfully standing guard in a knight's helmet with a sword."
+    usage_scenarios:
+      - "Running a security review and keeping watch for unsafe changes"
+      - "Guarding the main branch or blocking a merge until required checks pass"
+      - "Announcing that secret scanning, permission checks, or input validation are being enforced"
+      - "Standing watch over a risky deploy or database migration"
+      - "A cheerful 'none shall pass' when rejecting an unsafe pattern"
+    tags: ["guard", "security", "knight", "protective", "vigilant", "momiji_inubashiri", "touhou"]
+    character_appearance: "Chibi Momiji Inubashiri with white hair and white wolf ears, a small red cap, wearing a grey knight's visor helmet and a red scarf, blushing with an open happy mouth and holding an upright sword."
+
+  - id: "rikka_mind_blown"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/rikka_mind_blown.png"
+    description: "Rikka Takanashi from Chuunibyou demo Koi ga Shitai! staring wide-eyed with an awed 'whoa'."
+    usage_scenarios:
+      - "When a refactor reveals the bug was somewhere completely unexpected"
+      - "Reacting to a benchmark or performance win far bigger than expected"
+      - "Learning that a long-standing assumption in the codebase was wrong all along"
+      - "Mind blown by a clever trick or an unexpected language feature"
+      - "A stunned 'wait, that actually works?' moment"
+    tags: ["mind_blown", "whoa", "awe", "stunned", "rikka_takanashi", "chuunibyou"]
+    character_appearance: "Rikka Takanashi with dark hair and a white medical eyepatch over her right eye, her visible teal eye opened wide and her mouth in a small round 'o' of astonishment."
+
+  - id: "star_eyes_amazed"
+    source_url: "https://raw.githubusercontent.com/AndrewAltimit/Media/refs/heads/main/reaction/star_eyes_amazed.png"
+    description: "A blushing anime girl with sparkling star-shaped eyes and an open-mouthed 'wow'."
+    usage_scenarios:
+      - "Admiring an elegant, beautifully written piece of code"
+      - "When a PR replaces a pile of complexity with a clean, simple solution"
+      - "Sparkly-eyed excitement about a great new abstraction or API design"
+      - "Reacting to really thorough tests or excellent documentation"
+      - "Starstruck amazement at something impressive"
+    tags: ["amazed", "sparkly_eyes", "starstruck", "impressed", "wow"]
+    character_appearance: "Close-up of an anime girl with light blonde hair, big blue-purple eyes with white star-shaped highlights, red blush marks on her cheeks, and a wide open mouth in delighted amazement."
